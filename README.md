@@ -1,6 +1,6 @@
-# kt3
+# Site project for itv0130
 
-## Project setup
+### Project setup
 ```
 npm install
 ```

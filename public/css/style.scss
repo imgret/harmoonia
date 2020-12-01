@@ -1,0 +1,149 @@
+$primary-base-color: #f8ffe3;
+$primary-dark-color: #dbdfc0;
+$primary-darkest-color: #BABE9F;
+$secondary-light-color: #cdf3f0;
+$secondary-base-color: #32dbc6;
+$secondary-semidark-color: #32b7ab;
+$secondary-dark-color: #307f73;
+$icon-base-color: #525348;
+$text-accent-color: #363730;
+
+.navbar {
+  &--dark-bg {
+    background-color: $primary-dark-color;
+  }
+}
+
+.logo {
+  background-color: $primary-dark-color;
+
+  &__text {
+    font-size: 1.1em;
+    color: $text-accent-color;
+
+    &:hover {
+      text-decoration: none;
+      color: $text-accent-color;
+    }
+  }
+}
+
+.icon {
+  color: $icon-base-color;
+}
+
+.section {
+  background-color: $primary-base-color;
+
+  &__header {
+    color: $text-accent-color;
+    background-color: $primary-dark-color;
+
+    &--light-bg {
+      background-color: $primary-base-color;
+    }
+
+    &--border-y {
+      border-top: 1px solid $secondary-dark-color;
+      border-bottom: 1px solid $secondary-dark-color;
+    }
+
+    &--border-b {
+      border-bottom: 1px solid $secondary-dark-color;
+    }
+  }
+}
+
+.massage-banner {
+  background-color: $secondary-dark-color;
+
+  &__image {
+    width: 300px;
+  }
+}
+
+.button {
+  height: 40px;
+  width: 300px;
+  background-color: $secondary-base-color;
+
+  &:hover {
+    cursor: pointer;
+    color: $secondary-light-color !important;
+    background-color: $secondary-semidark-color;
+  }
+
+  &:focus {
+    box-shadow: none;
+  }
+
+  &--small {
+    padding: .125rem;
+    height: 30px;
+    width: 150px;
+  }
+
+  &--round {
+    border-radius: .375rem;
+  }
+
+  &--width-auto {
+    width: auto;
+  }
+}
+
+.massage-sorting {
+  background-color: $primary-dark-color;
+
+  &__label {
+    background-color: $primary-dark-color;
+  }
+
+  &__select {
+    &:focus {
+      box-shadow: none;
+    }
+  }
+}
+
+.massages-list {
+  &__item {
+    max-width: 300px;
+  }
+}
+
+.calendar {
+  font-family: sans-serif;
+  background-color: $primary-dark-color;
+}
+
+.booking-time-form {
+  &__header {
+    color: $text-accent-color;
+    background-color: $primary-dark-color;
+  }
+
+  &__radio {
+    background-color: $primary-dark-color;
+  }
+}
+
+.booking-info-form {
+  &__textarea {
+    border-bottom: 1px solid $secondary-dark-color;
+  }
+}
+
+.footer {
+  font-size: 0.8rem;
+  background-color: $primary-dark-color;
+}
+
+.chart {
+  background: white;
+
+  &__header {
+    color: $text-accent-color;
+    border-bottom: 1px solid $secondary-dark-color;
+  }
+}

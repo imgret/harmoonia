@@ -1,0 +1,106 @@
+{
+  "Ilumassaažid": [
+    {
+      "id": 0,
+      "name": "Näomassaaž",
+      "image": "nao.jpg",
+      "description": "Näomassaaž aitab lõdvestada näo miimilisi lihaseid. Lihaspinge raskendab vere vaba voolu vastavates piirkondades ja muude vedelike ligipääsu kudedesse, mistõttu väheneb nahale vajalike toitainete hulk ning samuti muutub raskemaks naha kaudu toksiinide väljutamine ja nahk ei hinga. Seetõttu mõjutatakse hiromassaaži abil ühenduskudesid, et lihased pöörduks oma tavapärasesse seisundisse ning nahk oleks kauem sile, noor ja elastne.",
+      "price": 48
+    },
+    {
+      "id": 1,
+      "name": "Peamassaaž",
+      "image": "pea.jpg",
+      "description": "India peamassaaž on osa iidsest ayurveda ravimise süsteemist, mis õpetab enda eest hoolitsema ning haigusi ennetavalt elama. Champi on raviprotseduur, kus energiakanaleid käsitledes masseeritakse läbi pea, kael, nägu ja õlgade piirkond. Champi- teraapia on soovitav stressi, unetuse, pingepeavalude, juuste väljalangemise, kaela- ja õlavööpingete korral. Massaaž on hea eksamiperioodil ja unetuse ravimisel. Leevendust saab peavalule, väsinud silmadele ja kohinale kõrvades. Mõtlemine kiireneb ja õpingutulemused paranevad! Champi on tuntud India massaažiliik terves maailmas, mille looja on hindu Narendra Mehta. Peamassaaž kuulub Indias igapäevase elurutiini hulka mitte ainult juuste heas vormis püsimise pärast, vaid ta stimuleerib ka keha loomulikku tervendamisvõimet ning keha ja hinge harmooniat.",
+      "price": 25
+    }
+  ],
+  "Lõõgastavad massaažid": [
+    {
+      "id": 0,
+      "name": "Aroomimassaaž",
+      "image": "aroomi.jpg",
+      "description": "Aroomimassaaž on iidne ravikunst, kus ühendatakse tervendav puudutus (massaaž) taimedest saadud eeterlike õlide tervendava mõjuga. See on õrn kuid tõhus, aeglaste ja sujuvate liigutustega meetod keha, hinge ja vaimu turgutamiseks.",
+      "price": 50
+    },
+    {
+      "id": 1,
+      "name": "Meemassaaž",
+      "image": "mee.jpg",
+      "description": "Meemassaaž parandab verevarustust ja maandab lihaspingeid. Meega masseerimine aitab väljutada organismist jääkaineid ja stimuleerib naha aluskoe ning verevarustuse tööd. Massaaž aitab tõhusalt võidelda tselluliidiga ja puhastab nahapoore. Massaaži on soovitav tulla tühja kõhuga. Masseeritav keha peab olema raseeritud, puhas ja kreemitamata. Vastasel korral mesi ei imendu. Massaaž võib esimestel kordadel olla veidi valulik. See on hea, sest just valu juhatab massöörile kätte probleemsed kohad. Reeglina on valus vaid esimene-teine seanss. Järgnevad korrad on tunduvalt mõnusamad.\n\nMeemassaaži tehakse enamasti seljale. Soovi korral saab meega masseerida ka keha täies ulatuses. Meega masseerimist võib kasutada ka tselluliidiravi osana. Protseduur silub nahaaluseid tihendeid, mille tulemusena muutub nahk siidiseks.",
+      "price": 55
+    },
+    {
+      "id": 2,
+      "name": "Šokolaadimassaaž",
+      "image": "šokolaadi.jpg",
+      "description": "See on sensuaalne massaaž kehale ja vaimule. Šokolaadimassaaž peletab halva meeleolu ja täidab õnnetundega, viib eemale argipäevast ning hellitab keha. Massaažiks kasutatakse šokolaadi massaažikreemi kakaoga, mille komponentideks on: kakao, kakaoõli, meevaha ja vitamiinid. Šokolaadil ja šokolaadiaroomil on tugev rahustav mõju. Šokolaad parandab ainevahetust, niisutab, taastab ja toidab nahka. Šokolaadimassaaž on hea valik, sest šokolaad sisaldab vitamiine ja antioksüdante, mis soodustavad toksiinide väljaviimist organismist, samuti stimuleerib šokolaadi aroom immuunglobuliini A teket, mis kaitseb organismi mikroobide ja viiruste vastu. Eriti kasulik on protseduur neile, kes kannatavad südameveresoonkonna haiguste all ja on kalduvusega stressile.",
+      "price": 80
+    },
+    {
+      "id": 3,
+      "name": "Klassikaline üldmassaaž",
+      "image": "klassikaline.jpg",
+      "description": "Klassikaline üldmassaž on ülimalt lõõgastav, rahustav ja meelolu parandav hooldus. See on mõeldud kõigile neile, kes on väsinud, stressis ja keda vaevavad lihaspinged ja valud peas, kaelas, õlgades, seljas, kätes või jalgades. Klassikaline massaaž parandab kogu organismi vere- ja lümfiringet ning ainevahetust, kiirendades jääkainete väljutamist kehast ning aitab vereringehäiretest tingitud käte ja jalgade “suremise” puhul. Tänu nahas leiduvatele närviretseptoritele avaldab see mõju kesknärvisüsteemile tugevdades organismi immuunsüsteemi. Klassikalisel üldmassaažil on ka salendav ja tselluliiti vähendav toime ning tänu ainevahetuse kiirendamisele aitab eemaldada nahaaluseid rasvaladestusi ja vähendada üleliigset kehakaalu.",
+      "price": 36
+    },
+    {
+      "id": 4,
+      "name": "Laavakivimassaaž",
+      "image": "laavakivi.jpg",
+      "description": "Laavakivimassaaž on 1,5 tundi kestev nauding soojade kivide seltsis. Laavakivi kasutati teadaolevalt juba üle 5000 aasta tagasi massaaži- ja teraapiakivina. Kivi noorendab nahka, rikastades seda hapnikuga. Kehale asetatakse eelsoojendatud laavakivid. Kokkupuutel nahaga annavad kivid organismile soojust, mille tulemusena leevenduvad lihasvalud, laienevad veresooned, reguleerub seedetegevus ja ainevahetus ning hormonaalsüsteem. Soojusega avanevad energiakanalid ja vabanevad energiaplokid. Seetõttu nimetatakse laavakivimassaaži ka Tšakra kivimassaažiks. Massaaž vabastab masseeritava närvisüsteemis keemilist ainet endorfiin (relaksiin), mis leevendab valu, tekitab heaolutunnet ja lõõgastab. Kuna laavakividest kiirgav soojus leevendab ka lihaste jäikust, on laavakivi massaaž sobiv lõõgastusviis pärast treeningut või rasket füüsilist tööd.",
+      "price": 39
+    },
+    {
+      "id": 5,
+      "name": "Helimassaaž",
+      "image": "heli.jpg",
+      "description": "Helimassaaž on iidne Tiibeti massaaž. Massöör tekitab metallkausside abil erilisi helimustreid, mis  võngub mitmetasandiliselt  läbi inimese keha, tasakaalustades rakkude toimimist ning viies inimese kiiresti REM-une eelsesse rahuseisundisse.  Helimassaaž sobib kõikidele, aga eriti inimestele kellel on probleeme stressimaandamisega ning kellele tavaline massaaž on vastunäidustatud (nt inimesed, kel on kasvaja).",
+      "price": 35
+    },
+    {
+      "id": 6,
+      "name": "Tai aroomiõlimassaaž",
+      "image": "aroomiõli.jpg",
+      "description": "Tai aroomiõli massaaž on segu Tai õlimassaažist ja Tai traditsioonilise massaaži elementidest, kus massaaži tegemiseks kasutatakse aroomiõlisid. Massaažil on aroomiteraapiline toime, leevendab stressi ja muresid ning tugevdab immuunsüsteemi.",
+      "price": 48
+    },
+    {
+      "id": 7,
+      "name": "Aromaatne ürdipallimassaaž",
+      "image": "ürdipalli.jpg",
+      "description": "Kuumade ürdipallidega vajutamine on eriline massaaživiis, mis on püsinud muutumatuna Ayutthaya perioodi algusest 14. sajandil. Taimekompresse kasutatakse krooniliste tervisehädade, nagu näiteks seljavalu ravimiseks. Lisaks sellele aitavad ürdipallid taastada energiavoolu, parandada vereringet, rahustada lihaseid ja stimuleerida närve. Nimetatud tehnika stimuleerib keha samal moel nagu akupunktuur ning seda kasutatakse tundlike või õrnade piirkondade massaažiks, mida otse masseerida võimalik ei ole. Kuumade taimekompresside kasutamine nendes piirkondades loob aga sama efekti: soojus avab poorid ning lubab taimeõlidel keha sügavamalt ravida. Ürdipallid sisaldavad segu ingverist, sidrunheinast, tamarindipuust, kamprist ja kafrilaimist.",
+      "price": 85
+    }
+  ],
+  "Ravimassaažid": [
+    {
+      "id": 0,
+      "name": "Kupumassaaž",
+      "image": "kupu.jpg",
+      "description": "Kupu panekut on raviks kasutatud sajandeid. Tänapäevaks on välja arenenud kupumassaaž. Kupumassaaž ehk vaakummassaaž on massaažiliik, milles kombineeritult käsimassaažiga kasutatakse lisaks erineva suurusega silikoonist kuppe. Massaažil lähtutakse vastavalt kliendi soovist ja näidustustest ning  keskendutakse  konkreetsetele probleempiirkondadele. Kupumassaaž on eriline selle poolest, et kupp tekitab vaakumi, mis saadakse kuppu keha pinnale asetades.  Kupp imeb endasse hulgaliselt pehmeid kudesid, lihaseid ja nahka nii vertikaal- kui ka horisontaalsuunas. Selle tulemusena saab kudesid intensiivsemalt töödelda, organismi lümfi- ja vereringet ning ainevahetusprotsesse parandada. Kupumassaaž sobib hästi lihastele, liigestele ja punktmassaažina. Veel trimmib kupumassaaž nahka, puhastab poore, intensiivistab verevarustust. Samuti on kupumassaaž hea psühhoemotsionaalse efektiga.",
+      "price": 30
+    },
+    {
+      "id": 1,
+      "name": "Spordimassaaž",
+      "image": "spordi.jpg",
+      "description": "Spordimassaaž sobib regulaarselt spordiga tegelevatele ja aktiivse eluviisiga inimestele. Massaaži tuleks suhtuda kui treeningu-süsteemi ühte koostisossa. See on osa sportlikust ettevalmistusest, mis toetab treenijat nii füüsiliselt kui ka vaimselt. Massaaž on efektiivne nii võistlusteks ettevalmistumisel kui ka väsimusega võitlemiseks. Spordimassaaž kujutab endast spetsiaalsete võtete kompleksi, mis tõstavad sportlikku töövõimet, valmistavad sportlast ette kestvaks aktiivseks lihastööks ja kiirendavad taastumisprotsesse. Spordimassaažil tuleb kindlasti arvestada sportlaste iseärasustega ja tema spordiala spetsiifikaga. Korralik taastumine võistlustest ning treeningutest aitab vältida vigastusi ning valmistab ette uuteks pingutusteks.",
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Ortopeediline massaaž",
+      "image": "ortopeediline.jpg",
+      "description": "Tänu erinevate spetsialistide tööle on viimaste aastakümnete jooksul toimunud hüppeline areng tugi-liikumiselundkonna ravimassaaži valdkonnas. Üks keskne termin, mis on sellise massaažiteraapia tähistamiseks kasutusele võetud, on ortopeediline massaaž. Viimane hõlmab enda alla praktiliselt piiramatul hulgal lihastele ja sidekoele suunatud meetodeid ja tehnikaid, mille hulgast iga terapeut saab teha valiku vastavalt enda eelistustele. Kasutatavate meetodite hulgas on muidugi ka klassikalise massaaži võtted, kuid viimaste roll on sageli rohkem abistav. Sama eesmärgi saavutamiseks on võimalik kasutada erinevaid võtteid. Küsimus on vaid selles, kui hästi mingi meetod mingisuguses konkreetses olukorras toimib. Selleks, et teha võimalikult õigeid ja põhjendatud valikuid, toimub kaasaegne ravimassaaž koos kliendi seisundi hindamisega. See on ortopeedilise massaaži elementaarne osa, millele kogu tegevus tugineb.",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "name": "Lümfimassaaž",
+      "image": "lümfi.jpg",
+      "description": "Lümfimassaaž ehk manuaalne lümfidrenaaž on nahka ja nahaaluseid kudesid mõjutav pindmine massaaž, mis stimuleerib lümfivedeliku voolu ja ergutab jääkainete eemaldamist kehast, lõdvestab ja leevendab lihaspingeid, mõjub hästi tursete, vereringehäirete ja ainevahetushaiguste puhul. Lümfimassaaži kasutatakse näiteks alajäsemete veenilaiendite, lümfiteede ahenemisest tingitud tursete, rasedusaegsete tursete leevendamiseks, samuti ulatuslike operatsioonide (sh kasvajate) ja traumajärgsel perioodil. Lümfi pumbatakse kätega selle liikumise suunas. Pumpamist alustatakse alati kaelapiirkonnast. Võtted on kerged, spiraalsed, ringjad, pumpavad. Võte on nõrgalt suruv. Lümfimassaaz ei tohi tekitada valu ega nahapunetust. Liiga tugevad võtted võivad takistada lümfivoolu.\nLümfiringe aeglustub inimesel magades, samuti liikumisvaeguse, ülekurnatuse ja ühekülgse füüsilise töö puhul. Seda soodustavad mehaanilised takistused lümfiteedes, põletikulised protsessid ja organismi jahtumine. Lümfiringe aeglustumisel kuhjuvad slakid – vedelik, mis rõhub kudesid ja närvilõpmeid. Massaaži kaudu mõjustatakse nii rakke kui rakuvaheainet – vere ja lümfi ning sidekoe vedelikke. Samal ajal lükatakse jääkained veresoonte seinte juurde ja nii eemalduvad ka teised ained kiiremini. Toimub organismi puhastumine.",
+      "price": 45
+    }
+  ]
+}
